@@ -1,8 +1,3 @@
-# blank
+Simple blog about learning to make pizza.
 
-blank
-
-## Attributes
-
-- **Database**: mongodb
-- **Storage Adapter**: localDisk
+Expermientations with Payload CMS beta 3.0.0, Typescript and Postgres
